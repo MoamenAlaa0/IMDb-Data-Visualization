@@ -2,7 +2,7 @@
 **IMDb is the most popular movie website, and it combines movie plot description,
 Meta store ratings, critic and user ratings and reviews, release dates, and many more aspects**
 
-**Our Scope is to create interactive visualization graphs to find:**
+**Creating interactive visualization graphs to find:**
 - The top genres overall years or specific year
 - The top countries that produce movies overall years and some annotates
 - The most voted movies overall years or a specific year and some annotates on each movie
